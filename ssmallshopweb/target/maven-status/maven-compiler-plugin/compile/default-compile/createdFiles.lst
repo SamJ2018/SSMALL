@@ -1,0 +1,4 @@
+com\ssmall\service\UserDetailServiceImpl.class
+com\ssmall\shop\controller\SellerController.class
+com\ssmall\shop\controller\GoodsController.class
+com\ssmall\shop\controller\LoginController.class

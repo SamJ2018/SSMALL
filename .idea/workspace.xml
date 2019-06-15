@@ -1,0 +1,1170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7425635-7572-4bd4-8a98-c50410ea90c5" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/ssmallcommon/target/" />
+    <ignored path="$PROJECT_DIR$/ssmallweb/target/" />
+    <ignored path="$PROJECT_DIR$/ssmallpojo/target/" />
+    <ignored path="$PROJECT_DIR$/ssmalldao/target/" />
+    <ignored path="$PROJECT_DIR$/ssmallsellergoodsinterface/target/" />
+    <ignored path="$PROJECT_DIR$/ssmallmanagerweb/target/" />
+    <ignored path="$PROJECT_DIR$/ssmallshopweb/target/" />
+    <ignored path="$PROJECT_DIR$/ssmallsellergoodsservice/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/admin/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="470">
+              <caret line="40" column="70" selection-start-line="40" selection-start-column="70" selection-end-line="40" selection-end-column="101" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/admin/seller_1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/js/controller/sellerController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="81" column="50" selection-start-line="81" selection-start-column="50" selection-end-line="81" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssmallshopweb/src/main/webapp/admin/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="662">
+              <caret line="306" column="44" selection-start-line="306" selection-start-column="44" selection-end-line="306" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/resources/spring/spring-security.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="457">
+              <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>测试</find>
+      <find>user2</find>
+      <find>ng-model</find>
+      <find>注销</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/java/com/ssmall/manager/controller/ItemCatController.java" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/java/com/ssmall/manager/controller/GoodsDescController.java" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/java/com/ssmall/manager/controller/GoodsController.java" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/java/com/ssmall/manager/controller/TypeTemplateController.java" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/js/controller/itemController.js" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/java/com/ssmall/manager/controller/SpecificationOptionController.java" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/js/controller/specificationController.js" />
+        <option value="$PROJECT_DIR$/ssmallpojo/src/main/java/com/ssmall/pojogroup/Specification.java" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/admin/specification.html" />
+        <option value="$PROJECT_DIR$/ssmalldao/src/main/resources/com/ssmall/mapper/TbBrandMapper.xml" />
+        <option value="$PROJECT_DIR$/ssmalldao/src/main/java/com/ssmall/mapper/TbBrandMapper.java" />
+        <option value="$PROJECT_DIR$/ssmallsellergoodsinterface/src/main/java/com/ssmall/sellergoods/service/BrandService.java" />
+        <option value="$PROJECT_DIR$/ssmallsellergoodsservice/src/main/java/com/ssmall/sellergoods/service/impl/BrandServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/java/com/ssmall/manager/controller/BrandController.java" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/js/service/brandService.js" />
+        <option value="$PROJECT_DIR$/ssmalldao/src/main/resources/com/ssmall/mapper/TbSpecificationMapper.xml" />
+        <option value="$PROJECT_DIR$/ssmalldao/src/main/java/com/ssmall/mapper/TbSpecificationMapper.java" />
+        <option value="$PROJECT_DIR$/ssmallsellergoodsinterface/src/main/java/com/ssmall/sellergoods/service/SpecificationService.java" />
+        <option value="$PROJECT_DIR$/ssmallsellergoodsservice/src/main/java/com/ssmall/sellergoods/service/impl/SpecificationServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/java/com/ssmall/manager/controller/SpecificationController.java" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/js/service/specificationService.js" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/js/controller/typeTemplateController.js" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/js/controller/baseController.js" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/admin/type_template.html" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/pom.xml" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/login.html" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/java/com/ssmall/manager/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/js/service/loginService.js" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/js/controller/indexController.js" />
+        <option value="$PROJECT_DIR$/ssmallshopweb/src/main/java/com/ssmall/shop/controller/GoodsController.java" />
+        <option value="$PROJECT_DIR$/ssmallshopweb/src/main/webapp/js/controller/sellerController.js" />
+        <option value="$PROJECT_DIR$/ssmallshopweb/src/main/webapp/register.html" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/admin/index.html" />
+        <option value="$PROJECT_DIR$/ssmallsellergoodsinterface/src/main/java/com/ssmall/sellergoods/service/SellerService.java" />
+        <option value="$PROJECT_DIR$/ssmallsellergoodsservice/src/main/java/com/ssmall/sellergoods/service/impl/SellerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/java/com/ssmall/manager/controller/SellerController.java" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/js/service/sellerService.js" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/js/controller/sellerController.js" />
+        <option value="$PROJECT_DIR$/ssmallshopweb/pom.xml" />
+        <option value="$PROJECT_DIR$/ssmallshopweb/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/ssmallshopweb/src/main/webapp/shoplogin.html" />
+        <option value="$PROJECT_DIR$/ssmallshopweb/src/main/java/com/ssmall/shop/controller/SellerController.java" />
+        <option value="$PROJECT_DIR$/ssmallshopweb/src/main/resources/spring/spring-security.xml" />
+        <option value="$PROJECT_DIR$/ssmallshopweb/src/main/java/com/ssmall/service/UserDetailServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/admin/seller_1.html" />
+        <option value="$PROJECT_DIR$/ssmallshopweb/src/main/java/com/ssmall/shop/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/ssmallshopweb/src/main/webapp/js/service/LoginService.js" />
+        <option value="$PROJECT_DIR$/ssmallshopweb/src/main/webapp/js/controller/indexController.js" />
+        <option value="$PROJECT_DIR$/ssmallshopweb/src/main/webapp/admin/index.html" />
+        <option value="$PROJECT_DIR$/ssmallmanagerweb/src/main/resources/spring/spring-security.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssmall-manager-web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssmall-manager-web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssmall-manager-web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssmall-manager-web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="tomcat7" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssmall-manager-web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssmall-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssmall-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssmall-shop-web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssmall-shop-web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssmall-shop-web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="tomcat7" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssmall-shop-web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssmall-web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssmall-web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssmall-web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssmall-web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="tomcat7" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssmall-web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallmanagerweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallmanagerweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallmanagerweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallmanagerweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallmanagerweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallmanagerweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallmanagerweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallmanagerweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallmanagerweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallmanagerweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallmanagerweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallmanagerweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallmanagerweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallmanagerweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallpojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallpojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallpojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallpojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallpojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallpojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmall" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallpojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallsellergoodsinterface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallsellergoodsinterface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallsellergoodsinterface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallsellergoodsinterface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallsellergoodsinterface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallsellergoodsservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallsellergoodsservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallsellergoodsservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallsellergoodsservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallsellergoodsservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallshopweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallshopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallshopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallshopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallshopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallshopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmall" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallshopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmall" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallshopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallshopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallshopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallshopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallshopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallshopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallshopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmallshopweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ssmallshopweb/src/main/webapp/img" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Code\ssmallparent\ssmallshopweb\src\main" />
+      <recent name="E:\Code\ssmallparent\ssmallsellergoodsservice\src\main" />
+      <recent name="E:\Code\ssmallparent\ssmallmanagerweb\src\main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Code\ssmallparent\ssmallshopweb\src\main\webapp\img" />
+      <recent name="E:\Code\ssmallparent\ssmallshopweb\src\main\resources\spring" />
+      <recent name="E:\Code\ssmallparent\ssmallshopweb\src\main\java\com\ssmall\shop\controller" />
+      <recent name="E:\Code\ssmallparent\ssmallshopweb\src\main\webapp\js\controller" />
+      <recent name="E:\Code\ssmallparent\ssmallshopweb\src\main\webapp\js\service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7425635-7572-4bd4-8a98-c50410ea90c5" name="Default Changelist" comment="" />
+      <created>1560343674904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560343674904</updated>
+      <workItem from="1560343676926" duration="22645000" />
+      <workItem from="1560414609501" duration="447000" />
+      <workItem from="1560415074875" duration="9883000" />
+      <workItem from="1560428341986" duration="47921000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="80896000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17982924" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893278" visible="true" weight="0.1402174" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010672" side_tool="true" visible="true" weight="0.1402174" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2496" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.11366062" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ssmalldao/src/main/resources/com/ssmall/mapper/TbUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10073" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmalldao/src/main/resources/com/ssmall/mapper/TbTypeTemplateMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallsellergoodsinterface/src/main/java/com/ssmall/sellergoods/service/BrandService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/js/controller/specificationOptionController.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/js/controller/brandController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/js/controller/specificationController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-745">
+          <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/js/controller/baseController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/admin/specification.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-239">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/js/controller/typeTemplateController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1419">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/admin/type_template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="95" column="68" selection-start-line="95" selection-start-column="68" selection-end-line="95" selection-end-column="68" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="78" column="58" selection-start-line="78" selection-start-column="58" selection-end-line="78" selection-end-column="58" />
+          <folding>
+            <element signature="e#1756#1762#0" expanded="true" />
+            <element signature="e#1836#1842#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/img/assets/img/pay/icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallshopweb/src/main/webapp/admin/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallshopweb/src/main/webapp/js/angular-select2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallshopweb/src/main/webapp/js/service/sellerService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallshopweb/src/main/webapp/js/controller/goodsController.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallshopweb/src/main/java/com/ssmall/shop/controller/GoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1554">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallshopweb/src/main/webapp/js/controller/sellerController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="712">
+          <caret line="59" column="49" selection-start-line="59" selection-start-column="49" selection-end-line="59" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallpojo/src/main/java/com/ssmall/pojo/TbSeller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="52" column="27" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallshopweb/src/main/webapp/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3304">
+          <caret line="185" column="42" selection-start-line="185" selection-start-column="42" selection-end-line="185" selection-end-column="42" />
+          <folding>
+            <element signature="e#4793#4799#0" expanded="true" />
+            <element signature="e#4817#4823#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallsellergoodsinterface/src/main/java/com/ssmall/sellergoods/service/SellerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="62" column="11" selection-start-line="62" selection-start-column="11" selection-end-line="62" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallsellergoodsservice/src/main/java/com/ssmall/sellergoods/service/impl/SellerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="172" column="48" selection-start-line="172" selection-start-column="48" selection-end-line="172" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/java/com/ssmall/manager/controller/SellerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="123" column="11" selection-start-line="123" selection-start-column="11" selection-end-line="123" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/js/service/sellerService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/admin/brand.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="89" column="10" selection-start-line="89" selection-start-column="10" selection-end-line="89" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="92" column="4" selection-start-line="92" selection-start-column="4" selection-end-line="99" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallshopweb/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="91" column="21" selection-start-line="91" selection-start-column="21" selection-end-line="91" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallshopweb/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-656">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallshopweb/src/main/webapp/admin/seller.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-594" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallshopweb/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="99" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallshopweb/src/main/resources/spring/spring-security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="45" column="17" lean-forward="true" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallshopweb/src/main/java/com/ssmall/shop/controller/SellerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-968">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallshopweb/src/main/java/com/ssmall/service/UserDetailServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="34" column="49" lean-forward="true" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallshopweb/src/main/webapp/shoplogin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663">
+          <caret line="55" column="123" selection-start-line="55" selection-start-column="123" selection-end-line="55" selection-end-column="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallshopweb/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/admin/seller.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4733" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/js/pages/login.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/java/com/ssmall/manager/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallshopweb/src/main/java/com/ssmall/shop/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallshopweb/src/main/webapp/js/service/LoginService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallshopweb/src/main/webapp/js/controller/indexController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/admin/seller_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="40" column="70" selection-start-line="40" selection-start-column="70" selection-end-line="40" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/js/service/loginService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/js/controller/indexController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/webapp/js/controller/sellerController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="81" column="50" selection-start-line="81" selection-start-column="50" selection-end-line="81" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallshopweb/src/main/webapp/admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="306" column="44" selection-start-line="306" selection-start-column="44" selection-end-line="306" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/resources/spring/spring-security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ssmallpojo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
