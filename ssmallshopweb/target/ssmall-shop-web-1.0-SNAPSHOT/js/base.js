@@ -1,1 +1,0 @@
-var app = angular.module('ssmall', []);//商城后台模块

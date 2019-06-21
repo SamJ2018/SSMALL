@@ -34,6 +34,9 @@
     <module>ssmall-order-service</module>
       <module>ssmall-pay-interface</module>
     <module>ssmall-pay-service</module>
+      <module>ssmall-seckill-interface</module>
+    <module>ssmall-seckill-service</module>
+    <module>ssmall-seckill-web</module>
   </modules>
   <packaging>pom</packaging>
 

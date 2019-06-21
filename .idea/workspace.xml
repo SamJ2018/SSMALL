@@ -40,6 +40,9 @@
     <ignored path="$PROJECT_DIR$/ssmall-order-service/target/" />
     <ignored path="$PROJECT_DIR$/ssmall-pay-interface/target/" />
     <ignored path="$PROJECT_DIR$/ssmall-pay-service/target/" />
+    <ignored path="$PROJECT_DIR$/ssmall-seckill-interface/target/" />
+    <ignored path="$PROJECT_DIR$/ssmall-seckill-service/target/" />
+    <ignored path="$PROJECT_DIR$/ssmall-seckill-web/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,74 +55,45 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ssmall-cart-web/src/main/webapp/plugins/qrious.min.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ssmall-cart-interface/src/main/java/com/ssmall/cart/service/CartService.java">
+        <entry file="file://$PROJECT_DIR$/ssmall-seckill-web/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="194">
+              <caret line="124" column="21" selection-start-line="124" selection-start-column="21" selection-end-line="124" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ssmall-pay-interface/src/main/java/com/ssmall/pay/service/WeixinPayService.java">
+        <entry file="file://$PROJECT_DIR$/ssmall-seckill-web/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssmall-seckill-web/src/main/resources/config/application.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssmall-seckill-web/src/main/resources/spring/spring-security.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-            </state>
+            <state relative-caret-position="-990" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ssmall-pay-service/src/main/java/com/ssmall/pay/service/impl/WeixinPayServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/ssmall-seckill-web/src/main/resources/spring/springmvc.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1122">
-              <caret line="51" column="48" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="378">
+              <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ssmall-cart-web/src/main/resources/spring/spring-security.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ssmall-common/src/main/resources/spring/applicationContext-redis.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ssmall-common/src/main/resources/properties/weixinpay.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="60" lean-forward="true" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ssmall-cart-web/src/main/java/com/ssmall/cart/controller/PayController.java">
+        <entry file="file://$PROJECT_DIR$/ssmall-cart-web/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="440">
-              <caret line="20" column="74" selection-start-line="20" selection-start-column="74" selection-end-line="20" selection-end-column="74" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="20" selection-start-line="20" selection-end-line="157" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -172,11 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ssmall-user-web/src/main/webapp/css/webbase.css" />
-        <option value="$PROJECT_DIR$/ssmall-user-web/pom.xml" />
-        <option value="$PROJECT_DIR$/ssmall-user-web/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/ssmall-user-web/src/main/java/com/ssmall/user/service/UserDetailServiceImpl.java" />
-        <option value="$PROJECT_DIR$/ssmall-user-web/src/main/resources/config/spring-security.xml" />
         <option value="$PROJECT_DIR$/ssmall-user-web/src/main/java/com/ssmall/user/controller/LoginController.java" />
         <option value="$PROJECT_DIR$/ssmall-user-web/src/main/webapp/js/service/loginService.js" />
         <option value="$PROJECT_DIR$/ssmall-user-web/src/main/webapp/js/controller/loginController.js" />
@@ -220,9 +189,14 @@
         <option value="$PROJECT_DIR$/ssmall-common/pom.xml" />
         <option value="$PROJECT_DIR$/ssmall-cart-web/pom.xml" />
         <option value="$PROJECT_DIR$/ssmall-pay-interface/src/main/java/com/ssmall/pay/service/WeixinPayService.java" />
-        <option value="$PROJECT_DIR$/ssmall-pay-service/src/main/java/com/ssmall/pay/service/impl/WeixinPayServiceImpl.java" />
         <option value="$PROJECT_DIR$/ssmall-cart-web/src/main/java/com/ssmall/cart/controller/PayController.java" />
         <option value="$PROJECT_DIR$/ssmall-cart-web/src/main/resources/spring/spring-security.xml" />
+        <option value="$PROJECT_DIR$/ssmall-pay-service/src/main/java/com/ssmall/pay/service/impl/WeixinPayServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ssmall-seckill-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/ssmall-seckill-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ssmall-seckill-service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/ssmall-seckill-web/pom.xml" />
+        <option value="$PROJECT_DIR$/ssmall-seckill-web/src/main/resources/spring/springmvc.xml" />
       </list>
     </option>
   </component>
@@ -244,17 +218,13 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="ssmall-cart-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="263" />
+    <option name="x" value="370" />
+    <option name="y" value="273" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -275,28 +245,88 @@
             <path>
               <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssmall-pay-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmall-cart-web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssmall-pay-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmall-cart-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssmall-pay-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmall-cart-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssmall-pay-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmall-cart-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmall-cart-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmall-seckill-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmall-seckill-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmall-seckill-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmall-seckill-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmall-seckill-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmall-seckill-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssmallparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssmallparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssmall-seckill-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -318,7 +348,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ssmall-cart-web/src/main/webapp/plugins" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ssmall-seckill-web/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -331,11 +361,11 @@
       <recent name="com.ssmall.user.service" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Code\ssmallparent\ssmall-seckill-web\src\main\resources" />
+      <recent name="E:\Code\ssmallparent\ssmall-seckill-web\src\main\webapp\WEB-INF" />
+      <recent name="E:\Code\ssmallparent\ssmall-seckill-service\src\main\resources" />
+      <recent name="E:\Code\ssmallparent\ssmall-seckill-service\src\main\webapp\WEB-INF" />
       <recent name="E:\Code\ssmallparent\ssmall-cart-web\src\main\webapp\plugins" />
-      <recent name="E:\Code\ssmallparent\ssmall-common\src\main\resources\properties" />
-      <recent name="E:\Code\ssmallparent\ssmall-common\src\main\java\utils" />
-      <recent name="E:\Code\ssmallparent\ssmall-pay-service\src\main\resources" />
-      <recent name="E:\Code\ssmallparent\ssmall-pay-service\src\main\webapp\WEB-INF" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.ssmall.user.service" />
@@ -449,7 +479,7 @@
       <workItem from="1560670236171" duration="34228000" />
       <workItem from="1560759557256" duration="73343000" />
       <workItem from="1560956878912" duration="12763000" />
-      <workItem from="1561036846994" duration="41357000" />
+      <workItem from="1561036846994" duration="44417000" />
     </task>
     <servers />
   </component>
@@ -459,10 +489,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="287088000" />
+    <option name="totallyTimeSpent" value="290148000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18623266" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -475,7 +506,7 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32934782" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.10217391" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49893278" visible="true" weight="0.21630435" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49893278" visible="true" weight="0.32608697" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -544,92 +575,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ssmallmanagerweb/src/main/java/com/ssmall/manager/controller/ItemController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1320">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssmall-page-web/src/main/webapp/149187842867973.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="46" column="84" selection-start-line="46" selection-start-column="84" selection-end-line="46" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssmall-user-interface/src/main/java/com/ssmall/user/service/AddressService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="61" column="16" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssmall-page-web/src/main/webapp/149187842867970.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssmall-cart-web/src/main/java/com/ssmall/cart/controller/AddressController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="113" column="13" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssmall-user-service/src/main/java/com/ssmall/user/service/impl/AddressServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="134" column="54" selection-start-line="134" selection-start-column="54" selection-end-line="134" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssmall-cart-web/src/main/java/com/ssmall/cart/controller/CartController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="33" column="36" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssmall-cart-web/src/main/webapp/cart.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="124" column="66" selection-start-line="124" selection-start-column="66" selection-end-line="124" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssmall-user-web/src/main/webapp/home-index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-110">
-          <caret line="163" column="62" selection-start-line="163" selection-start-column="62" selection-end-line="163" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssmall-cart-web/src/main/webapp/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssmall-order-interface/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ssmall-order-service/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -831,13 +776,6 @@
     <entry file="file://$PROJECT_DIR$/ssmall-common/src/main/resources/properties/sms.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ssmall-cart-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="137" column="44" selection-start-line="137" selection-start-column="44" selection-end-line="137" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ssmall-cart-web/src/main/webapp/plugins/qrious.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -845,16 +783,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="394">
           <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssmall-cart-web/src/main/java/com/ssmall/cart/controller/PayController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="74" selection-start-line="20" selection-start-column="74" selection-end-line="20" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -871,13 +799,6 @@
     <entry file="file://$PROJECT_DIR$/ssmall-common/src/main/resources/spring/applicationContext-redis.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ssmall-common/src/main/resources/properties/weixinpay.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="60" lean-forward="true" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ssmall-pay-interface/src/main/java/com/ssmall/pay/service/WeixinPayService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -887,11 +808,94 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ssmall-pay-service/src/main/java/com/ssmall/pay/service/impl/WeixinPayServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="51" column="48" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
+        <state relative-caret-position="331">
+          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmall-cart-web/src/main/java/com/ssmall/cart/controller/PayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="20" column="74" selection-start-line="20" selection-start-column="74" selection-end-line="20" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmall-common/src/main/resources/properties/weixinpay.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmall-seckill-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmall-cart-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" selection-start-line="20" selection-end-line="119" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmall-seckill-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="90" column="48" selection-start-line="90" selection-start-column="48" selection-end-line="90" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmall-seckill-service/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmall-seckill-service/src/main/resources/spring/applicationContext-tx.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmall-seckill-service/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmall-cart-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" selection-start-line="20" selection-end-line="157" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmall-seckill-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="124" column="21" selection-start-line="124" selection-start-column="21" selection-end-line="124" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmall-seckill-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmall-seckill-web/src/main/resources/config/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmall-seckill-web/src/main/resources/spring/spring-security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-990" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssmall-seckill-web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
         </state>
       </provider>
     </entry>

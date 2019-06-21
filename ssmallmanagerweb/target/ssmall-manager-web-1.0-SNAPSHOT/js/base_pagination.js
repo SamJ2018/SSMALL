@@ -1,1 +1,0 @@
-var app = angular.module('ssmall', ['pagination']);//定义品优购模块
