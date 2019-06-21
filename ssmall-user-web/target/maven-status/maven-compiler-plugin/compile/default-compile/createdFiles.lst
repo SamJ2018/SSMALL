@@ -1,0 +1,3 @@
+com\ssmall\user\controller\LoginController.class
+com\ssmall\user\service\UserDetailServiceImpl.class
+com\ssmall\user\controller\UserController.class

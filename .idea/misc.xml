@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/portal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/ssmall-cart-service" />
+    <file type="web" url="file://$PROJECT_DIR$/ssmall-cart-web" />
+    <file type="web" url="file://$PROJECT_DIR$/ssmall-order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/ssmall-page-service" />
+    <file type="web" url="file://$PROJECT_DIR$/ssmall-page-web" />
+    <file type="web" url="file://$PROJECT_DIR$/ssmall-pay-service" />
+    <file type="web" url="file://$PROJECT_DIR$/ssmall-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/ssmall-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/ssmall-sellergoods-service" />
+    <file type="web" url="file://$PROJECT_DIR$/ssmall-user-service" />
+    <file type="web" url="file://$PROJECT_DIR$/ssmall-user-web" />
     <file type="web" url="file://$PROJECT_DIR$/ssmallmanagerweb" />
-    <file type="web" url="file://$PROJECT_DIR$/ssmallsellergoodsservice" />
     <file type="web" url="file://$PROJECT_DIR$/ssmallshopweb" />
   </component>
   <component name="MavenProjectsManager">
@@ -16,8 +28,23 @@
         <option value="$PROJECT_DIR$/ssmallcommon/pom.xml" />
         <option value="$PROJECT_DIR$/ssmallpojo/pom.xml" />
         <option value="$PROJECT_DIR$/ssmallmanagerweb/pom.xml" />
-        <option value="$PROJECT_DIR$/ssmallshopweb/pom.xml" />
+        <option value="$PROJECT_DIR$/ssmall-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/ssmall-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/ssmall-common/pom.xml" />
+        <option value="$PROJECT_DIR$/ssmall-sellergoods-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ssmall-sellergoods-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/content-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/content-service/pom.xml" />
+        <option value="$PROJECT_DIR$/portal-web/pom.xml" />
+        <option value="$PROJECT_DIR$/ssmall-solr-util/pom.xml" />
+        <option value="$PROJECT_DIR$/ssmall-search-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/cys_sms_service/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/ssmall-page-service/ssmall-page-web/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" project-jdk-name="9" project-jdk-type="JavaSDK">

@@ -8,13 +8,32 @@
   <artifactId>ssmall-parent</artifactId>
   <version>1.0-SNAPSHOT</version>
   <modules>
-    <module>ssmallcommon</module>
-    <module>ssmalldao</module>
-    <module>ssmallpojo</module>
-    <module>ssmallmanagerweb</module>
-    <module>ssmallsellergoodsinterface</module>
+    <module>ssmall-pojo</module>
+    <module>ssmall-common</module>
+    <module>ssmall-sellergoods-interface</module>
     <module>ssmallshopweb</module>
-    <module>ssmallsellergoodsservice</module>
+    <module>ssmall-dao</module>
+    <module>ssmall-sellergoods-service</module>
+    <module>ssmallmanagerweb</module>
+    <module>content-interface</module>
+    <module>portal-web</module>
+    <module>ssmall-solr-util</module>
+    <module>ssmall-search-service</module>
+    <module>ssmall-search-interface</module>
+    <module>ssmall-search-web</module>
+    <module>ssmall-page-interface</module>
+    <module>ssmall-page-service</module>
+    <module>ssmall-page-web</module>
+      <module>ssmall-user-interface</module>
+    <module>ssmall-user-service</module>
+    <module>ssmall-user-web</module>
+      <module>ssmall-cart-interface</module>
+    <module>ssmall-cart-service</module>
+    <module>ssmall-cart-web</module>
+      <module>ssmall-order-interface</module>
+    <module>ssmall-order-service</module>
+      <module>ssmall-pay-interface</module>
+    <module>ssmall-pay-service</module>
   </modules>
   <packaging>pom</packaging>
 

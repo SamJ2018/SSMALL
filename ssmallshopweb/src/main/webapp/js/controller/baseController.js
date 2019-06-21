@@ -28,7 +28,7 @@ app.controller('baseController', function ($scope) {
         }
     }
 
-   $scope.jsonToString = function (jsonString, key) {
+    $scope.jsonToString = function (jsonString, key) {
         var json = JSON.parse(jsonString);
         var value = "";
 
@@ -39,5 +39,15 @@ app.controller('baseController', function ($scope) {
             value += json[i][key];
         }
         return value;
+    }
+
+    //在List集合中根据某key的值查询对象
+    $scope.searchObjectByKey = function (list, key, keyValue) {
+        for (var i = 0; i < list.length; i++) {
+            if (list[i][key] == keyValue) {
+                return list[i]; //选择的选项，规格名称已经存在
+            }
+        }
+        return null;
     }
 });

@@ -1,0 +1,9 @@
+com\ssmall\sellergoods\service\SpecificationOptionService.class
+com\ssmall\sellergoods\service\SpecificationService.class
+com\ssmall\sellergoods\service\TypeTemplateService.class
+com\ssmall\sellergoods\service\GoodsDescService.class
+com\ssmall\sellergoods\service\ItemService.class
+com\ssmall\sellergoods\service\ItemCatService.class
+com\ssmall\sellergoods\service\BrandService.class
+com\ssmall\sellergoods\service\GoodsService.class
+com\ssmall\sellergoods\service\SellerService.class

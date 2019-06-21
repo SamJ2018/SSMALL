@@ -33,7 +33,7 @@
         <authentication-provider>
             <user-service>
                 <user name="sam" password="362361" authorities="ROLE_ADMIN"/>
-                <user name="wxy" password="ac521202" authorities="ROLE_ADMIN"/>
+                <user name="wxl" password="ac521202" authorities="ROLE_ADMIN"/>
                 <user name="lyf" password="123456" authorities="ROLE_ADMIN"/>
                 <user name="zzq" password="123456" authorities="ROLE_ADMIN"/>
                 <user name="lwc" password="123456" authorities="ROLE_ADMIN"/>

@@ -31,11 +31,16 @@
 			  }
 		 }
     
-	</script>    
+	</script>
 
+    <script type="text/javascript" src="../plugins/angularjs/angular.min.js"></script>
+
+    <script type="text/javascript" src="../js/base.js"></script>
+    <script type="text/javascript" src="../js/service/LoginService.js"></script>
+    <script type="text/javascript" src="../js/controller/indexController.js"></script>
 </head>
 
-<body class="hold-transition skin-blue sidebar-mini">
+<body class="hold-transition skin-blue sidebar-mini" ng-app="ssmall" ng-init="showLoginName()" ng-controller="indexController">
 
     <div class="wrapper">
 
@@ -44,9 +49,9 @@
             <!-- Logo -->
             <a href="index.html" class="logo">
                 <!-- mini logo for sidebar mini 50x50 pixels -->
-                <span class="logo-mini"><b>品优购</b></span>
+                <span class="logo-mini"><b>森马逊</b></span>
                 <!-- logo for regular state and mobile devices -->
-                <span class="logo-lg"><b>品优购</b>商家后台</span>
+                <span class="logo-lg"><b>森马逊</b>商家后台</span>
             </a>
             <!-- Header Navbar: style can be found in header.less -->
             <nav class="navbar navbar-static-top">
@@ -72,7 +77,7 @@
                                             <!-- start message -->
                                             <a href="#">
                                                 <div class="pull-left">
-                                                    <img src="../img/user2-160x160.jpg" class="img-circle" alt="User Image">
+                                                    <img src="../img/sam.jpg" class="img-circle" alt="User Image">
                                                 </div>
                                                 <h4>
                                                     系统消息
@@ -257,16 +262,16 @@
                         <!-- User Account: style can be found in dropdown.less -->
                         <li class="dropdown user user-menu">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                                <img src="../img/user2-160x160.jpg" class="user-image" alt="User Image">
-                                <span class="hidden-xs">chendahai</span>
+                                <img src="../img/sam.jpg" class="user-image" alt="User Image">
+                                <span class="hidden-xs">  {{loginName}} </span>
                             </a>
                             <ul class="dropdown-menu">
                                 <!-- User image -->
                                 <li class="user-header">
-                                    <img src="../img/user2-160x160.jpg" class="img-circle" alt="User Image">
+                                    <img src="../img/sam.jpg" class="img-circle" alt="User Image">
 
                                     <p>
-                                       chendahai 
+                                       {{loginName}}
                                         <small>最后登录 11:20AM</small>
                                     </p>
                                 </li>
@@ -277,7 +282,7 @@
                                         <a href="#" class="btn btn-default btn-flat">修改密码</a>
                                     </div>
                                     <div class="pull-right">
-                                        <a href="#" class="btn btn-default btn-flat">注销</a>
+                                        <a href="../logout" class="btn btn-default btn-flat">注销</a>
                                     </div>
                                 </li>
                             </ul>
@@ -296,10 +301,10 @@
                 <!-- Sidebar user panel -->
                 <div class="user-panel">
                     <div class="pull-left image">
-                        <img src="../img/user2-160x160.jpg" class="img-circle" alt="User Image">
+                        <img src="../img/sam.jpg" class="img-circle" alt="User Image">
                     </div>
                     <div class="pull-left info">
-                        <p> chendahai</p>
+                        <p>   {{loginName}} </p>
                         <a href="#"><i class="fa fa-circle text-success"></i> 在线</a>
                     </div>
                 </div>
@@ -374,7 +379,7 @@
             <div class="pull-right hidden-xs">
                 <b>Version</b> 1.0.8
             </div>
-            <strong>Copyright &copy; 2014-2017 <a href="http://www.itcast.cn">研究院研发部</a>.</strong> All rights reserved.
+            <strong>Copyright &copy; 2018-2019 <a href="http://www.itcast.cn">森马逊研发部</a>.</strong> All rights reserved.
         </footer>
         <!-- 底部导航 /-->
 
