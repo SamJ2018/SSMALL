@@ -37,6 +37,7 @@
       <module>ssmall-seckill-interface</module>
     <module>ssmall-seckill-service</module>
     <module>ssmall-seckill-web</module>
+      <module>ssmall-task-service</module>
   </modules>
   <packaging>pom</packaging>
 

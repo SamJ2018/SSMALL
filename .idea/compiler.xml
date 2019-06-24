@@ -31,6 +31,7 @@
         <module name="ssmall-seckill-web" />
         <module name="ssmall-sellergoods-interface" />
         <module name="ssmall-pay-service" />
+        <module name="ssmall-task-service" />
         <module name="ssmall-cart-web" />
         <module name="ssmall-user-web" />
         <module name="content-interface" />
