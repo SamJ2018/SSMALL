@@ -50,7 +50,7 @@
       <a href="#"> single sign on</del></a>
     </li>
   </ol>
-   <a href="#t1">三、prospect and conclusion</a>
+   <a href="#t1">三、prospect and conclusion</a><br>
    <strong>注：被划线的是本项目没有使用到的技术，列举出来是方便做对比</strong>
   
   ### <div id="t1">1、平台介绍<sup>①</sup></div>
