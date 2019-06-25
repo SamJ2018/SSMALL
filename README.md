@@ -65,11 +65,11 @@
 
 首先在商家注册页面填写必要信息，为了后期扩充，所有字段均为必填字段。提交申请后进入商家管理后台：
 
-![商家管理后台](screenshot\运营商登陆页面.png)
+![商家管理后台](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E8%BF%90%E8%90%A5%E5%95%86%E7%99%BB%E9%99%86%E9%A1%B5%E9%9D%A2.png)
 
 （注意：这里的账号密码通过springsecurity管理，可在ssmallmanagerweb下的reouces/spring-security.xml中配置，并没有另外生成注册页面）
 
-![商家审核](screenshot\商家审核.png)
+![商家审核](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E5%95%86%E5%AE%B6%E5%AE%A1%E6%A0%B8.png)
 
 在商家审核页面就可以看到刚才入驻的商家，点击详情可以查看详情并选择审核通过、关闭、不通过
 
@@ -79,57 +79,57 @@
 
 品牌管理-新建
 
-![](screenshot\微星.png)
+![](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E5%BE%AE%E6%98%9F.png)
 
 规格管理-新建
 
-![规格管理](screenshot\规格管理.png)
+![规格管理](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E8%A7%84%E6%A0%BC%E7%AE%A1%E7%90%86.png)
 
 模板管理-新建(注意：每一层都与上一层有关联 新建的顺序不能颠倒)
 
-![模板管理](screenshot\模板管理.png)
+![模板管理](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E6%A8%A1%E6%9D%BF%E7%AE%A1%E7%90%86.png)
 
 模板分类（依次点击下一级 点击面包屑可以回退 最终找到笔记本）
 
-![模板分类](screenshot\模板分类1.png)
+![模板分类](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E6%A8%A1%E6%9D%BF%E5%88%86%E7%B1%BB1.png)
 
-![](screenshot\模板分类2.png)
+![](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E6%A8%A1%E6%9D%BF%E5%88%86%E7%B1%BB2.png)
 
-![](screenshot\模板分类3.png)
+![](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E6%A8%A1%E6%9D%BF%E5%88%86%E7%B1%BB3.png)
 
 修改模板ID为46（可在模板管理页面查看，前面操作生成的，为自增主键）
 
-![](screenshot\模板ID2.png)
+![](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E6%A8%A1%E6%9D%BFID2.png)
 
-![](screenshot\商品分类2.png)
+![](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E5%95%86%E5%93%81%E5%88%86%E7%B1%BB2.png)
 
 至此商品管理录入完成，进入商家后台进行具体商品的添加。
 
 添加商品基本信息
 
-![](screenshot\商品录入.png)
+![](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E5%95%86%E5%93%81%E5%BD%95%E5%85%A5.png)
 
 可批量添加图片
 
-![](screenshot\批量添加图片.png)
+![](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E6%89%B9%E9%87%8F%E6%B7%BB%E5%8A%A0%E5%9B%BE%E7%89%87.png)
 
-![](screenshot\规格.png)
+![](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E8%A7%84%E6%A0%BC.png)
 
-![](screenshot\规格3.png)
+![](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E8%A7%84%E6%A0%BC3.png)
 
 保存成功
 
-![](screenshot\保存成功.png)
+![](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E4%BF%9D%E5%AD%98%E6%88%90%E5%8A%9F.png)
 
 接下来返回到运营商管理后台将商品审核了就大功告成了
 
-![](screenshot\商品审核成功.png)
+![](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E5%95%86%E5%93%81%E5%AE%A1%E6%A0%B8%E6%88%90%E5%8A%9F.png)
 
 前台广告添加
 
-![](screenshot\广告1.png)
+![](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E5%B9%BF%E5%91%8A1.png)
 
-![](screenshot\广告3.png)
+![](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E5%B9%BF%E5%91%8A3.png)
 
 至此后台管理的主要功能结束，还有很多细节和BUG有待后续处理。
 
@@ -141,39 +141,39 @@
 
 搜索页面
 
-![](screenshot\手机1.png)
+![](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E6%89%8B%E6%9C%BA1.png)
 
-![](screenshot\手机2.png)
+![](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E6%89%8B%E6%9C%BA2.png)
 
 找到刚才添加的那件商品
 
-![](screenshot\微星2.png)
+![](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E5%BE%AE%E6%98%9F2.png)
 
 查看详情，选择规格，添加购物车
 
-![](screenshot\微星3.png)
+![](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E5%BE%AE%E6%98%9F3.png)
 
 这时需要登录or注册，填写手机号，收到短信后填写验证码 注册成功(阿里大于短信平台)
 
-![](screenshot\登录.png)
+![](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E7%99%BB%E5%BD%95.png)
 
 注册后登录，就可以进行结算
 
-![](screenshot\结算1.png)
+![](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E7%BB%93%E7%AE%971.png)
 
 添加收获地址-微信付款
 
-![](screenshot\收获地址.png)
+![](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E6%94%B6%E8%8E%B7%E5%9C%B0%E5%9D%80.png)
 
-![](screenshot\pay.png)
+![](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/pay.png)
 
 秒杀界面
 
-![](screenshot\秒杀1.png)
+![](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E7%A7%92%E6%9D%80%E7%95%8C%E9%9D%A2.png)
 
 详情 (使用spring task进行任务调度，右边的读秒结束后将商品下架)
 
-![](screenshot\秒杀详情2.png)
+![](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E7%A7%92%E6%9D%80%E8%AF%A6%E6%83%852.png)
 
 抢购完成后的流程与前面普通购买相同，至此所有主要功能都展示完毕。
 
