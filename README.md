@@ -2,16 +2,16 @@
 <a href="#t1" alt>一、项目架构 
   <ol>
     <li>
-        <a href="#">平台介绍</a>
+        <a href="#t1">平台介绍</a>
     </li>
     <li>
-        <a href="#">技术选型</a>
+        <a href="#t2">技术选型</a>
     </li>
     <li>
-        <a href="#">环境搭建</a>
+        <a href="#t3">环境搭建</a>
     </li>
   </ol>
- <a href="#t1" alt>二、使用技术介绍
+ <a href="#" alt>二、使用技术介绍
   <ol>
      <li>
        <a href="#"> maven vs <del>gradle</del></a>
@@ -179,6 +179,6 @@
 
 
 
-### 技术选型
+### <div id="t2">技术选型</div>
 
 本项目采用springMVC+spring+mybatis作为开发骨架，个别服务使用SpringBoot简化开发。与传统项目不同，此项目采用SOA架构，SOA是一种面向服务的架构思想。同时使用dubbox作为服务中间件，ActiveMQ作为消息中间件。前端采用angularJS+Bootstrap，利用angularJs的双向绑定和依赖注入等机制简化开发，并且提高了与用户的交互性。网页前台的搜索系统采用全文检索技术solr，后期可做solr集群。数据库采用mysql数据库，用mycat做分片。使用redis集群做缓存，并且使用spring data redis简化开发。为了缓解服务器压力，可使用网页静态化技术，图片和文件部署在fastDfs上，并且使用ngix进行负载均衡。
