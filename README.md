@@ -169,7 +169,7 @@
 
 秒杀界面
 
-![](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E7%A7%92%E6%9D%80%E7%95%8C%E9%9D%A2.png)
+![](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E7%A7%92%E6%9D%801.png)
 
 详情 (使用spring task进行任务调度，右边的读秒结束后将商品下架)
 
