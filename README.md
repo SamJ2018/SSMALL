@@ -61,7 +61,7 @@
   商家可以添加商品，同样需要在运营商后台审核后才能上架，上架后可修改商品（同样需要审核）。在后台数据准备好后最终在前台展示。后台管理页面采用<a href="https://adminlte.io/" target="_blank">AdminTEL</a>模板,这是一款开源的基于bootstrap的页面静态模板，只需稍加修改即可使用。
 
   #### 1.1、 后台功能
-  ![商家入驻](screenshot\商家入驻.png)
+  ![商家入驻](https://github.com/SamJ2018/SSMALL/blob/master/screenshot/%E5%95%86%E5%AE%B6%E5%85%A5%E9%A9%BB.png)
 
 首先在商家注册页面填写必要信息，为了后期扩充，所有字段均为必填字段。提交申请后进入商家管理后台：
 
